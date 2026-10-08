@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.1.0-alpha.2 — 2026-10-08
+
+- **Your account on the web.** Sign in at
+  [coderats.llc/account](https://coderats.llc/account) with GitHub or
+  Google to manage billing — card, invoices, plan changes — through
+  the customer portal.
+- **Fixes.** Signing up for news on coderats.llc now sticks; earlier
+  signups could be lost when the server restarted.
+- **Updates prove themselves.** If you installed alpha.1, this is the
+  release it offers you — tell us if it didn't.
+
 ## 0.1.0-alpha.1 — 2026-10-08
 
 The first public alpha of Sudoer — the opening of a long campaign
