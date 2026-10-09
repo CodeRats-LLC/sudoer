@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.0-alpha.3 — 2026-10-09
+
+Sudoer 0.1.0-alpha.3.
+
 ## 0.1.0-alpha.2 — 2026-10-08
 
 - **Your account on the web.** Sign in at
